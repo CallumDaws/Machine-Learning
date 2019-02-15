@@ -1,2 +1,2 @@
 # Machine-Learning
-Java Coursework for Machine Learning algorithms tailored to solving a classification problem. 
+Java Machine Learning algorithms tailored to solving a classification problem. 
